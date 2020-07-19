@@ -8,20 +8,29 @@
 - I am keen to learn more Data Structures and Algorithms.
 - I am a coffee lover.
 - 🏠 I live in Delhi, India.
-- 📫 How to reach me: varuntandon93@gmail.com
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 **Languages**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+![Java](https://img.shields.io/badge/-java-f89820?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-ebebeb?style=flat-square&logo=swift)
 
-**Tools:**
+**Tools**
 
-_Android Studio_
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![Android_Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat-square&logo=android-studio)
+![Xcode](https://img.shields.io/badge/-Xcode-grey?style=flat-square&logo=xcode)
+![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-211f1f?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-fC6d27?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-1A74Ed?style=flat-square&logo=bitbucket)
+
+**Where to find me**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Varun_Tandon-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/androidvarun/)](https://www.linkedin.com/in/androidvarun/)
+[![Instagram Badge](https://img.shields.io/badge/-va__run__tandon-3f729b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/va_run_tandon)](https://www.instagram.com/va_run_tandon)
+[![Gmail Badge](https://img.shields.io/badge/-varuntandon93@gmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varuntandon93@gmail.com)](mailto:varuntandon93@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@meeVarunAhe-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/meeVarunAhe)](https://twitter.com/meeVarunAhe)
