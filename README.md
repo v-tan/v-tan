@@ -19,7 +19,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-darkgrey?style=flat-square&logo=swift)
 
-**Tech**
+**Tools and Tech**
 
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat-square&logo=android-studio)
 ![Xcode](https://img.shields.io/badge/-Xcode-grey?style=flat-square&logo=xcode)
