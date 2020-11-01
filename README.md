@@ -2,7 +2,8 @@
 
 - 👨‍💻 I'm currently working as a Android/iOS Engineer at Quokka Labs LLP
 - 🔭 I’m currently working on creating useful Android and iOS Apps
-- 🌱 I’m currently learning video/audio calling, video editing apps, AR face filters, CI/CD setup for Android Projects
+- I'm searching for better resources to learn video/audio calling, video editing apps, AR face filters, CI/CD setup for Android and iOS Projects
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about 
 ![Java](https://img.shields.io/badge/-android-darkgrey?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=iOS)
