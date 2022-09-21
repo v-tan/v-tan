@@ -1,7 +1,10 @@
 ### Hi there 👋 I am Varun Tandon
 
-- 👨‍💻 I'm currently working as a Android/iOS/Flutter Engineer
-- 🔭 I’m currently working on creating useful Android and iOS Apps
+- 👨‍💻 I'm currently working as a Android Engineer.
+- I have been into iOS and Flutter development too and would like to explore more.
+- 🔭 Blockchain Tech Enthusiast - currently working on creating another wallet app for Algorand with an awesome team.
+- Loves the curves and edges of designing complex systems and exploring more into it.
+- Aspire to be a Solutions Architect. And Going for it with full force!
 - 💬 Ask me about 
 ![Java](https://img.shields.io/badge/-android-darkgrey?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=iOS)
