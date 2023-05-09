@@ -48,18 +48,84 @@
 <details>
 <summary><h3>Tools and Tech</h3></summary>
 
-![Android_Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat-square&logo=android-studio)
-![Xcode](https://img.shields.io/badge/-Xcode-grey?style=flat-square&logo=xcode)
-![Firebase](https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase)
-![Postman](https://img.shields.io/badge/-Postman-1A74Ed?style=flat-square&logo=postman)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-211f1f?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-fC6d27?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-1A74Ed?style=flat-square&logo=bitbucket)
-![Mixpanel](https://img.shields.io/badge/-Mixpanel-1A74Ed?style=flat-square&logo=mixpanel)
-![Segment](https://img.shields.io/badge/-segment-1A74Ed?style=flat-square&logo=segment)
-
+<a href="#tech_and_tools">
+ <img src="./assets/android.svg" width="48" height="48" alt="Android" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/androidstudio.svg" width="48" height="48" alt="Android Studio" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/bitbucket.svg" width="48" height="48" alt="Bitbucket" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/sonarqube.png" width="48" height="48" alt="SonarQube" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/codecov.svg" width="48" height="48" alt="CodeCov" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/confluence.svg" width="48" height="48" alt="Confluence" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/crowdin.png" width="48" height="48" alt="Crowdin" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/eslint.svg" width="48" height="48" alt="ESLint" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/figma.svg" width="48" height="48" alt="Figma" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/firebase.svg" width="48" height="48" alt="Firebase" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/flutter.svg" width="48" height="48" alt="Flutter" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/git.svg" width="48" height="48" alt="Git" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/github.svg" width="48" height="48" alt="Github" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/gitlab.svg" width="48" height="48" alt="Gitlab" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/gradle.svg" width="48" height="48" alt="Gradle" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/graphql.svg" width="48" height="48" alt="GraphQL" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/jira.svg" width="48" height="48" alt="Jira" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/mixpanel.png" width="48" height="48" alt="Mixpanel" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/postman.png" width="48" height="48" alt="Postman" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/rudderstack.png" width="48" height="48" alt="Rudderstack" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/segment.jpg" width="48" height="48" alt="Segment" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/slack.svg" width="48" height="48" alt="Slack" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/sqlite.svg" width="48" height="48" alt="SQLite" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/trello.svg" width="48" height="48" alt="Trello" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/vscode.svg" width="48" height="48" alt="VSCode" />
+</a>
+<a href="#tech_and_tools">
+ <img src="./assets/xcode.svg" width="48" height="48" alt="XCode" />
+</a>
 </details>
 
 <details>
