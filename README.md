@@ -98,3 +98,5 @@ Java                     1 repo              ███░░░░░░░░�
 
  Last Updated on 09/05/2023 20:14:59 UTC
 <!--END_SECTION:waka-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-tan&layout=compact&theme=dark&hide_border=true)
