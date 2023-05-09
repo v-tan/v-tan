@@ -37,7 +37,6 @@
 **Where to find me**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Varun_Tandon-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/androidvarun/)](https://www.linkedin.com/in/androidvarun/)
-[![Instagram Badge](https://img.shields.io/badge/-va__run__tandon-d7008a?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/va_run_tandon)](https://www.instagram.com/va_run_tandon)
 [![Gmail Badge](https://img.shields.io/badge/-varuntandon28121993@gmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varuntandon28121993@gmail.com)](mailto:varuntandon28121993@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@meeVarunAhe-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/meeVarunAhe)](https://twitter.com/meeVarunAhe)
 
