@@ -1,15 +1,12 @@
-### Hi there 👋 I am Varun Tandon
+### Hi there 👋 I am Varun from India
 
-- 👨‍💻 I'm currently working as a Android Engineer.
-- I have been into iOS and Flutter development too and would like to explore more.
-- 🔭 Blockchain Tech Enthusiast - currently working on creating another wallet app for Algorand with an awesome team.
-- Loves the curves and edges of designing complex systems and exploring more into it.
+- 👨‍💻 I'm an Android App Developer with experience in cross-platform mobile development frameworks.
+- 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
+- Loves the curves and edges of designing complex systems.
+- Feels Purposeful when helping other achieve their dreams.
 - Aspire to be a Solutions Architect. And Going for it with full force!
-- 💬 Ask me about 
-![Java](https://img.shields.io/badge/-android-darkgrey?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=iOS)
 - 🎯 I love well-architectured apps.
-- :coffee: I am a coffee lover.
+- :coffee: A coffee lover.
 - 🏠 I live in Delhi, India.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -99,6 +96,7 @@ Java                     1 repo              ███░░░░░░░░�
  Last Updated on 09/05/2023 20:14:59 UTC
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-tan&layout=compact&theme=dark&hide_border=true)
-
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=dark)
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v-tan&layout=compact&theme=dark&hide_border=true" width = 400>
+<img src = "https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=bear" width = 400>
+</p>
