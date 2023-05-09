@@ -41,4 +41,76 @@
 [![Twitter Badge](https://img.shields.io/badge/-@meeVarunAhe-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/meeVarunAhe)](https://twitter.com/meeVarunAhe)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                471 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌆 Daytime                548 commits         ████████████░░░░░░░░░░░░░   47.74 % 
+🌃 Evening                73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌙 Night                  56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Wednesday                546 commits         ████████████░░░░░░░░░░░░░   47.56 % 
+Thursday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   162 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Saturday                 19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Sunday                   14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Kotlin** 
+
+```text
+Kotlin                   4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Dart                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Swift                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/v-tan/v-tan/master/assets/bar_graph.png)
+
+
+ Last Updated on 09/05/2023 19:40:46 UTC
 <!--END_SECTION:waka-->
