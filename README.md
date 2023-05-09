@@ -1,23 +1,52 @@
 ### Hi there 👋 I am Varun from India
 
+<h2>
+<a href="https://www.linkedin.com/in/androidvarun/">
+  <img align="left" alt="Varun's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:varuntandon28121993@gmail.com">
+  <img align="left" alt="Varun's GMail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/meeVarunAhe">
+  <img align="left" alt="Varun Tandon | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+</h2>
+
+<br />
+
 - 👨‍💻 I'm an Android App Developer with experience in cross-platform mobile development frameworks.
+- I was appointed Android Tech Lead in a cybersecurity firm and we built [this](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard)
 - 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
+- Learning building with KTor.
 - Loves the curves and edges of designing complex systems.
 - Feels Purposeful when helping other achieve their dreams.
-- Aspire to be a Solutions Architect. And Going for it with full force!
+- Aspire to be a Solutions Architect, AND Going for it with full force!
 - 🎯 I love well-architectured apps.
 - :coffee: A coffee lover.
 - 🏠 I live in Delhi, India.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-**Languages**
+<details>
+<summary><h3><u>Digitally multi-lingual</u></h3></summary>
 
-![Java](https://img.shields.io/badge/-java-f89820?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-darkgrey?style=flat-square&logo=swift)
+<a href="#pro_language">
+ <img src="./assets/kotlin.svg" width="48" height="48" alt="Kotlin" />
+</a>
+<a href="#pro_language">
+ <img src="./assets/java.svg" width="48" height="48" alt="Java" />
+</a>
+<a href="#pro_language">
+ <img src="./assets/swift.svg" width="48" height="48" alt="Swift" />
+</a>
+<a href="#pro_language">
+ <img src="./assets/dart.svg" width="48" height="48" alt="Dart" />
+</a>
 
-**Tools and Tech**
+</details>
+
+<details>
+<summary><h3>Tools and Tech</h3></summary>
 
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-grey?style=flat-square&logo=android-studio)
 ![Xcode](https://img.shields.io/badge/-Xcode-grey?style=flat-square&logo=xcode)
@@ -31,11 +60,20 @@
 ![Mixpanel](https://img.shields.io/badge/-Mixpanel-1A74Ed?style=flat-square&logo=mixpanel)
 ![Segment](https://img.shields.io/badge/-segment-1A74Ed?style=flat-square&logo=segment)
 
-**Where to find me**
+</details>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Varun_Tandon-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/androidvarun/)](https://www.linkedin.com/in/androidvarun/)
-[![Gmail Badge](https://img.shields.io/badge/-varuntandon28121993@gmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varuntandon28121993@gmail.com)](mailto:varuntandon28121993@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@meeVarunAhe-00acee?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/meeVarunAhe)](https://twitter.com/meeVarunAhe)
+<details>
+<summary><h3>⚡️ More about my coding life</h3></summary>
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v-tan&layout=compact&theme=dark&hide_border=true" width = 400>
+<img src = "https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=bear" width = 400>
+</p>
+
+</details>
+
+<details>
+<summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -95,8 +133,4 @@ Java                     1 repo              ███░░░░░░░░�
 
  Last Updated on 09/05/2023 20:14:59 UTC
 <!--END_SECTION:waka-->
-
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v-tan&layout=compact&theme=dark&hide_border=true" width = 400>
-<img src = "https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=bear" width = 400>
-</p>
+</details>
