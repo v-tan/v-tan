@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary><h3>Tools and Tech</h3></summary>
+<summary><h3>Tools and Tech under my belt</h3></summary>
 
 <a href="#tech_and_tools">
  <img src="./assets/android.svg" width="48" height="48" alt="Android" />
