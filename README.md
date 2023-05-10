@@ -14,10 +14,10 @@
 
 <br />
 
-- 👨‍💻 I'm an Android App Developer with experience in cross-platform mobile development frameworks.
+- 👨‍💻 I'm an Android App Developer with 6+ years experience, including cross-platform mobile development frameworks.
 - I was appointed Android Tech Lead in a cybersecurity firm and we built [this](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard)
 - 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
-- Learning building with KTor.
+- Learning building backend with KTor.
 - Loves the curves and edges of designing complex systems.
 - Feels Purposeful when helping other achieve their dreams.
 - Aspire to be a Solutions Architect, AND Going for it with full force!
