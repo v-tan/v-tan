@@ -19,7 +19,7 @@
 - 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
 - Learning building backend with KTor.
 - Loves the curves and edges of designing complex systems.
-- Feels Purposeful when helping other achieve their dreams.
+- Feels purposeful helping others achieve their dreams.
 - Aspire to be a Solutions Architect, AND Going for it with full force!
 - 🎯 I love well-architectured apps.
 - :coffee: A coffee lover.
