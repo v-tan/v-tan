@@ -142,7 +142,7 @@
 <summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
 
@@ -173,13 +173,13 @@ Sunday                   13 commits          ░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           1 hr 16 mins        █████████████████████████   100.00 % 
+Android Studio           2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bodyguard-android        1 hr 16 mins        █████████████████████████   100.00 % 
+bodyguard-android        2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -194,6 +194,6 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 19/05/2023 18:35:56 UTC
+ Last Updated on 20/05/2023 18:35:46 UTC
 <!--END_SECTION:waka-->
 </details>
