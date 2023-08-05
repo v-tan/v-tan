@@ -14,16 +14,16 @@
 
 <br />
 
-- 👨‍💻 I'm an Android App Developer with 6+ years experience, including cross-platform mobile development frameworks.
+- 👨‍💻 I'm an Android App Developer with 6+ years of experience, including experience with building with cross-platform mobile development frameworks.
 - I was appointed Android Tech Lead in a cybersecurity firm and we built [this](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard)
 - 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
-- Learning building backend with KTor.
+- Learning building backend with NestJS.
 - Loves the curves and edges of designing complex systems.
-- Feels purposeful helping others achieve their dreams.
+- Feels purposeful in helping others achieve their dreams.
 - Aspire to be a Solutions Architect, AND Going for it with full force!
 - 🎯 I love well-architectured apps.
 - :coffee: A coffee lover.
-- 🏠 I live in Delhi, India.
+- 🏠 I live in Noida, U.P., India.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
