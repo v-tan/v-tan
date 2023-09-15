@@ -142,9 +142,9 @@
 <summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20thousand%20lines%20of%20code-blue)
 
@@ -173,15 +173,17 @@ Sunday                   12 commits          ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           2 hrs 18 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bodyguard-android        1 hr 41 mins        ██████████████████░░░░░░░   73.55 % 
-wireguard-android        36 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-wireguard-tools          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+wireguard-android        2 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
+bodyguard-android        2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+monorepo                 1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+wireguard-tools          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+elf-cleaner              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -197,6 +199,6 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 18:35:46 UTC
+ Last Updated on 15/09/2023 18:35:44 UTC
 <!--END_SECTION:waka-->
 </details>
