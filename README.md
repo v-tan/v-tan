@@ -142,9 +142,9 @@
 <summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20thousand%20lines%20of%20code-blue)
 
@@ -173,17 +173,17 @@ Sunday                   12 commits          ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           19 hrs 47 mins      █████████████████████████   100.00 % 
+Android Studio           20 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bodyguard-android        9 hrs 9 mins        ████████████░░░░░░░░░░░░░   46.25 % 
-monorepo                 6 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-wireguard-android        2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-wireguard-android-private1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-wireguard-tools          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+bodyguard-android        10 hrs 47 mins      █████████████░░░░░░░░░░░░   51.40 % 
+monorepo                 7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+wireguard-android        2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+wireguard-android-private25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+wireguard-tools          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Mac                      19 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -199,6 +199,6 @@ Go                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 26/09/2023 18:36:44 UTC
+ Last Updated on 27/09/2023 18:36:53 UTC
 <!--END_SECTION:waka-->
 </details>
