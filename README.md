@@ -142,7 +142,7 @@
 <summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -173,14 +173,14 @@ Sunday                   14 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           22 hrs              █████████████████████████   100.00 % 
+Android Studio           25 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-edxpert-android          21 hrs 37 mins      █████████████████████████   98.22 % 
-mdm-android              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+edxpert-android          20 hrs 35 mins      ████████████████████░░░░░   81.77 % 
+mdm-android              4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 
 💻 Operating System: 
-Mac                      22 hrs              █████████████████████████   100.00 % 
+Mac                      25 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -195,6 +195,6 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 17/01/2024 18:37:11 UTC
+ Last Updated on 18/01/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
 </details>
