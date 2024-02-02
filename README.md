@@ -173,13 +173,13 @@ Sunday                   14 commits          ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-edxpert-android          4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -194,6 +194,6 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/02/2024 18:37:18 UTC
+ Last Updated on 02/02/2024 18:36:54 UTC
 <!--END_SECTION:waka-->
 </details>
