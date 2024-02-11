@@ -142,7 +142,7 @@
 <summary><h3>⚡️ More stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -173,14 +173,14 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           1 hr 5 mins         █████████████████████████   100.00 % 
+Android Studio           1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-myweb-flutter            57 mins             ██████████████████████░░░   88.56 % 
-myweb-v4                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+myweb-flutter            1 hr 8 mins         ███████████████████████░░   90.21 % 
+myweb-v4                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -196,6 +196,6 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 18:36:35 UTC
+ Last Updated on 11/02/2024 18:35:46 UTC
 <!--END_SECTION:waka-->
 </details>
