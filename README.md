@@ -173,13 +173,13 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Android Studio           10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-myweb-flutter            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -195,6 +195,6 @@ TypeScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 17/02/2024 18:35:39 UTC
+ Last Updated on 18/02/2024 18:35:44 UTC
 <!--END_SECTION:waka-->
 </details>
