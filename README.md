@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Varun from India
 
-<h2>
+<!--<h2>
 <a href="https://www.linkedin.com/in/androidvarun/">
   <img align="left" alt="Varun's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -10,22 +10,52 @@
 <a href="https://twitter.com/meeVarunAhe">
   <img align="left" alt="Varun Tandon | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-</h2>
+</h2>-->
+
+<p align="center">
+  🚀 Senior Android Developer • 💼 Open to work • 🌱 Learning Web & JS
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 👨‍💻 **Senior Android Developer** with 6+ years of experience building high-quality scalable apps, including apps in cross-platform mobile development frameworks.
+- 🔍 Currently **open to new opportunities** (remote or hybrid)
+- 🛠 Working with Kotlin, Jetpack Compose, Clean Architecture, and modern Android stacks
+- 🌱 Learning JavaScript, React, and **Next.js** to go full-stack 🚀
+- 🤝 Passionate about collaboration, open-source, and mentoring new devs
+- Former Android Tech Lead in a cybersecurity firm — led the development of [BodyGuard](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard), a mobile security app with then 500K+ downloads.
+- 🔭 Directed the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app built on Algorand.
+- 🌱 Currently expanding into full-stack development with JavaScript, React, Next.js and Python.
+- 🤝 Passionate about clean code, open-source, and mentoring aspiring developers.
+- ☕ Fueled by coffee and curiosity.
+- 🏠 Based in India | 🕒 IST (UTC+5:30)
+
+---
+
+### 🧰 Tech Stack
+
+**Android:** `Kotlin`, `Jetpack Compose`, `Room`, `Coroutines`, `Hilt`, `MVVM`  
+**Frontend (learning):** `Tailwind`, `React`, `Next.js`
+**Tools:** `Git`, `GitHub Actions`, `Gradle`
+
+---
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/androidvarun)
+- 💌 [Email me](mailto:varuntandon28121993@gmail.com)
+
+---
+
+> 💡 *Actively looking for a high-impact Android role or cross-platform dev opportunity. Feel free to reach out or refer!* 🙏
+
 
 <br />
 
-- 👨‍💻 I'm an Android App Developer with 6+ years of experience, including experience with building with cross-platform mobile development frameworks.
-- I was appointed Android Tech Lead in a cybersecurity firm and we built [this](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard)
-- 🔭 I was responsible for directing the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app for Algorand block with an awesome team.
-- Learning building backend with NestJS.
-- Loves the curves and edges of designing complex systems.
-- Feels purposeful in helping others achieve their dreams.
-- Aspire to be a Solutions Architect, AND Going for it with full force!
-- 🎯 I love well-architectured apps.
-- :coffee: A coffee lover.
-- 🏠 I live in Noida, U.P., India.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <details>
 <summary><h3><u>Digitally multi-lingual</u></h3></summary>
