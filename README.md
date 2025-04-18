@@ -23,12 +23,10 @@
 - 👨‍💻 **Senior Android Developer** with 6+ years of experience building high-quality scalable apps, including apps in cross-platform mobile development frameworks.
 - 🔍 Currently **open to new opportunities** (remote or hybrid)
 - 🛠 Working with Kotlin, Jetpack Compose, Clean Architecture, and modern Android stacks
-- 🌱 Learning JavaScript, React, and **Next.js** to go full-stack 🚀
-- 🤝 Passionate about collaboration, open-source, and mentoring new devs
+- 🌱 Learning JavaScript, Typescript, React, **Next.js** and **Python** to go full-stack 🚀
+- 🤝 Passionate about clean code, collaboration, open-source, and mentoring new devs
 - Former Android Tech Lead in a cybersecurity firm — led the development of [BodyGuard](https://play.google.com/store/apps/details?id=com.safehouse.bodyguard), a mobile security app with then 500K+ downloads.
 - 🔭 Directed the development of a blockchain [wallet](https://play.google.com/store/apps/details?id=com.jasiriwallet) app built on Algorand.
-- 🌱 Currently expanding into full-stack development with JavaScript, React, Next.js and Python.
-- 🤝 Passionate about clean code, open-source, and mentoring aspiring developers.
 - ☕ Fueled by coffee and curiosity.
 - 🏠 Based in India | 🕒 IST (UTC+5:30)
 
