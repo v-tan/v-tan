@@ -80,8 +80,7 @@
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=v-tan&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=dark&rank_icon=github&hide=stars,commits&show=prs_merged_percentage&custom_title=OSS+Contributions&ring_color=238636" width="60%" />
 </p>
 
 <p align="center">
