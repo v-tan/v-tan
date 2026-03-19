@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Tandon&fontSize=44&fontColor=fff&fontAlignY=34&desc=Frontend%20%26%20AI%20Engineer&descSize=18&descColor=bbb&descAlignY=54" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Tandon&fontSize=44&fontColor=fff&fontAlignY=34&desc=Frontend%20%2B%20AI%20Engineer&descSize=18&descColor=bbb&descAlignY=54" />
 
 <p align="center">
   <samp>Building modern web apps and AI-powered tools &nbsp;·&nbsp; Freelance &nbsp;·&nbsp; Open to frontend work</samp>
