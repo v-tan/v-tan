@@ -45,25 +45,24 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <sub><b>FRONTEND</b></sub><br/>
+      <sub><b>FRONTEND</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" /><br/>
       <sub>React · Next.js · TypeScript · JavaScript · Tailwind · HTML · CSS</sub>
     </td>
     <td valign="top" width="50%">
-      <sub><b>AI / PYTHON</b></sub><br/>
+      <sub><b>AI / PYTHON</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,fastapi" /><br/>
       <sub>Python · FastAPI · LlamaIndex · SurrealDB · Kreuzberg</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <sub><b>TOOLS</b></sub><br/>
+      <sub><b>TOOLS</b></sub><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /><br/>
       <sub>Git · GitHub · VSCode · Figma · Postman</sub>
     </td>
     <td valign="top">
-      <sub><b>BACKGROUND</b></sub><br/>
-      <br/>
+      <sub><b>BACKGROUND</b></sub><br/><br/>
       <sub>Kotlin · Android · iOS · Flutter · cross-platform</sub>
     </td>
   </tr>
