@@ -16,29 +16,27 @@
 
 ---
 
-### 🧑‍💻 About Me
+### ⚡ Now
 
-- 💼 Freelance **Frontend & AI Engineer** · Open to new opportunities
-- 🔭 Currently building at **[Kreuzberg](https://github.com/kreuzberg-dev)** — a document AI framework
-- ⚡ 7 years of mobile engineering in a past life — still available if the right opportunity shows up
-- 🏠 Based in India &nbsp;|&nbsp; 🕒 IST (UTC+5:30)
-
----
-
-### 💼 Experience
-
-**Frontend & AI** _(11 months · Freelance)_
-
-| | |
-|---|---|
-| 🟢 **[Kreuzberg](https://github.com/kreuzberg-dev)** · Jan 2026–present | Frontend for a document AI framework · building integrations with external tools and frameworks |
-| ⬜ **Grantflow** · Apr–Nov 2025 | Frontend with React and Next.js |
-
-**Mobile Engineering** _(7 years)_
-
-| | |
-|---|---|
-| 📱 Android · iOS · Flutter · Cross-platform | Led Android development at a cybersecurity firm · shipped a blockchain wallet on Algorand · worked across Cordova, Ionic, and native stacks |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🔭 Building</strong><br/>
+      <a href="https://github.com/kreuzberg-dev">Kreuzberg</a><br/>
+      <sub>document AI framework · frontend + integrations</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>📚 Deepening</strong><br/>
+      React internals · Next.js rendering · Python patterns<br/>
+      <sub>going past the surface</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>🛠 Making</strong><br/>
+      Portfolio management tool<br/>
+      <sub>personal finance tracker · family use</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -63,20 +61,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-**Android (background)**
+**Background**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,flutter" />
-</p>
+`Kotlin · Android · iOS · Flutter · cross-platform`
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-tan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=v-tan&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
+| | | |
+|---|---|---|
+| 🟢 **[Kreuzberg](https://github.com/kreuzberg-dev)** | Jan 2026–present | Frontend + framework integrations · document AI |
+| **Grantflow** | Apr–Nov 2025 | Frontend · React & Next.js |
+| Mobile _(7 yrs)_ | 2016–2024 | Android · iOS · Flutter · cross-platform |
+
+---
+
+### 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=v-tan&theme=github-compact&hide_border=true&area=true" width="96%" />
