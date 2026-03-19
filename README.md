@@ -42,28 +42,32 @@
 
 ### 🛠 Tech Stack
 
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-</p>
-
-**AI / Python**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-<samp>LlamaIndex · SurrealDB · Kreuzberg</samp>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
-
-**Background**
-
-`Kotlin · Android · iOS · Flutter · cross-platform`
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <sub><b>FRONTEND</b></sub><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" /><br/>
+      <sub>React · Next.js · TypeScript · JavaScript · Tailwind · HTML · CSS</sub>
+    </td>
+    <td valign="top" width="50%">
+      <sub><b>AI / PYTHON</b></sub><br/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi" /><br/>
+      <sub>Python · FastAPI · LlamaIndex · SurrealDB · Kreuzberg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>TOOLS</b></sub><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /><br/>
+      <sub>Git · GitHub · VSCode · Figma · Postman</sub>
+    </td>
+    <td valign="top">
+      <sub><b>BACKGROUND</b></sub><br/>
+      <br/>
+      <sub>Kotlin · Android · iOS · Flutter · cross-platform</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v-tan&theme=github-compact&hide_border=true&area=true" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=v-tan&theme=github-compact&hide_border=true&area=true&hide_title=true" width="96%" />
 </p>
 
 ---
