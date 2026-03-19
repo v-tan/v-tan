@@ -56,12 +56,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <sub><b>TOOLS</b></sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /><br/>
-      <sub>Git · GitHub · VSCode · Figma · Postman</sub>
-    </td>
-    <td valign="top">
+    <td valign="top" colspan="2">
       <sub><b>BACKGROUND</b></sub><br/><br/>
       <sub>Kotlin · Android · iOS · Flutter · cross-platform</sub>
     </td>
