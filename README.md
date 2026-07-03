@@ -69,7 +69,7 @@
 
 | | | |
 |---|---|---|
-| 🟢 **[Kreuzberg](https://github.com/kreuzberg-dev)** | Jan 2026–present | Frontend + framework integrations · document AI |
+| 🟢 **[Kreuzberg](https://github.com/kreuzberg-dev)** | Jan–Jul 2026 | Frontend + framework integrations · document AI |
 | **Grantflow** | Apr–Nov 2025 | Frontend · React & Next.js |
 | Mobile _(7 yrs)_ | 2016–2024 | Android · iOS · Flutter · cross-platform |
 
