@@ -21,11 +21,6 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <strong>🔭 Building</strong><br/>
-      <a href="https://github.com/kreuzberg-dev">Kreuzberg</a><br/>
-      <sub>document AI framework · frontend + integrations</sub>
-    </td>
-    <td align="center" width="33%">
       <strong>📚 Deepening</strong><br/>
       React internals · Next.js rendering · Python patterns<br/>
       <sub>going past the surface</sub>
